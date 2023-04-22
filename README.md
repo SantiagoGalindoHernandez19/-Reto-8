@@ -25,7 +25,18 @@ Reto 8
 
 ---
 
-4)
+4)  Imprimir los números de 1 hasta un número natural n dado, cada uno con su respectivo factorial
+
+
+![Punto 4, reto 8](https://user-images.githubusercontent.com/124641609/233754555-dbb88260-3596-4856-9f5a-67ee5de9b519.JPG)
+
+
+---
+
+5) Calcular el valor de 2 elevado a la potencia usando ciclos for.
+
+
+
 
 
 
