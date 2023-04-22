@@ -21,6 +21,13 @@ Reto 8
 3) Imprimir los números pares en forma descendente hasta 2 que son menores o iguales a un número natural n ≥ 2 dado
 
 
+![Punto 3, reto 8](https://user-images.githubusercontent.com/124641609/233754137-1800797c-fec6-46a8-a988-cbbf576a3f23.JPG)
+
+---
+
+4)
+
+
 
 
 
