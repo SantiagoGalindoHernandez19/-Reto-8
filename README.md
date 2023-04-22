@@ -53,8 +53,16 @@ Reto 8
 ![Punto 7, reto 8](https://user-images.githubusercontent.com/124641609/233763303-8c711b5d-1a1b-4529-9bc0-f3b1e4e5fbd1.JPG)
 
 
+---
+
+8) Diseñar una función que permita calcular una aproximación de la función exponencial alrededor de 0 para cualquier valor x (real), utilizando los primeros n términos de la serie de Maclaurin. nota: use math para traer la función exponencial y mostrar la diferencia entre el valor real y la aproximación.
+
+![Punto 8, reto 8](https://user-images.githubusercontent.com/124641609/233808227-1a18da03-4e9d-42ac-b0da-289818edfc8b.JPG)
 
 
+---
+
+9)  Diseñar una función que permita calcular una aproximación de la función seno alrededor de 0 para cualquier valor x (real), utilizando los primeros n términos de la serie de Maclaurin. nota: use math para traer la función seno y mostrar la diferencia entre el valor real y la aproximación.
 
 
 
