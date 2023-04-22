@@ -35,6 +35,13 @@ Reto 8
 
 5) Calcular el valor de 2 elevado a la potencia usando ciclos for.
 
+![punto 5, reto 8](https://user-images.githubusercontent.com/124641609/233762733-a030c1d0-06bd-424c-b650-4f1c59ded955.JPG)
+
+
+---
+
+6) Leer un número natural n, leer otro dato de tipo real xy calcular x^n usando ciclos for.
+
 
 
 
