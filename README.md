@@ -42,6 +42,16 @@ Reto 8
 
 6) Leer un número natural n, leer otro dato de tipo real xy calcular x^n usando ciclos for.
 
+![punto 6, reto 8](https://user-images.githubusercontent.com/124641609/233763157-5bbdd225-1549-4a6f-8d21-95c065232a82.JPG)
+
+
+
+---
+
+7)  Diseñe un programa que muestre las tablas de multiplicar del 1 al 9
+
+![Punto 7, reto 8](https://user-images.githubusercontent.com/124641609/233763303-8c711b5d-1a1b-4529-9bc0-f3b1e4e5fbd1.JPG)
+
 
 
 
