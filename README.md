@@ -65,5 +65,6 @@ Reto 8
 9)  Diseñar una función que permita calcular una aproximación de la función seno alrededor de 0 para cualquier valor x (real), utilizando los primeros n términos de la serie de Maclaurin. nota: use math para traer la función seno y mostrar la diferencia entre el valor real y la aproximación.
 
 
+![Punto 9, reto 8](https://user-images.githubusercontent.com/124641609/233809007-330a434a-f40a-4798-a05f-2405d4914ecd.JPG)
 
 
