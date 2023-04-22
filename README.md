@@ -72,5 +72,7 @@ Reto 8
 10) Diseñar una función que permita calcular una aproximación de la función arcotangente alrededor de 0 para cualquier valor x en el rango [-1, 1], utilizando los primeros n términos de la serie de Maclaurin. nota: use math para traer la función arctan y mostrar la diferencia entre el valor real y la aproximación.
 
 
+![Punto 10, reto 8](https://user-images.githubusercontent.com/124641609/233810369-121418dc-7232-4320-8127-fca61d7bd8ab.JPG)
+
 
 
